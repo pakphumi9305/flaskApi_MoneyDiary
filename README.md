@@ -1,0 +1,2 @@
+# flaskApi_MoneyDiary
+flaskApi_MoneyDiary
